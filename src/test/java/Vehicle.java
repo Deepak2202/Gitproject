@@ -16,4 +16,13 @@ public class Vehicle {
 
 	}
 
+	private void train() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void helicopter() {
+		// TODO Auto-generated method stub
+
+	}
 }
