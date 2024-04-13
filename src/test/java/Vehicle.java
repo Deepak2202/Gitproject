@@ -15,5 +15,17 @@ public class Vehicle {
 		System.out.println("two wheeler");
 
 	}
+	
+	private void lorry() {
+		System.out.println("four wheeler");
+
+
+	}
+	
+	private void bus() {
+		System.out.println("six wheeler");
+
+
+	}
 
 }
