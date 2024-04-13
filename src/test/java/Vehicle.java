@@ -26,6 +26,11 @@ public class Vehicle {
 		System.out.println("six wheeler");
 
 
+
+	}
+	private void ship() {
+		// TODO Auto-generated method stub
+
 	}
 
 }
